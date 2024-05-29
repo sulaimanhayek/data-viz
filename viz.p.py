@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from pysankey import sankey
 
 df = pd.read_csv(
-    'C:/Users/sulahmed/source/repos/data viz/needs-assistance.csv', sep=',',
+    '../data viz/needs-assistance.csv', sep=',',
     names=['id', 'needs', 'assistance', 'weight']
 )
 weight = df['weight'].values[1:].astype(float)
