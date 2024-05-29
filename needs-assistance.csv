@@ -1,0 +1,26 @@
+,needs,assistance,weight
+24,E. Help with paying rent,E. (Other),0.037
+23,E. Help with paying rent,"D. Educational (skills provision, training etc.)",0.015
+22,E. Help with paying rent,C. Jobs creation,0.073
+21,E. Help with paying rent,B. In-kind support,0.06
+20,E. Help with paying rent,A. Cash,0.815
+19,D. Medicines,E. (Other),0.004
+18,D. Medicines,"D. Educational (skills provision, training etc.)",0.007
+17,D. Medicines,C. Jobs creation,0.041
+16,D. Medicines,B. In-kind support,0.257
+15,D. Medicines,A. Cash,0.69
+14,C. Hygiene items,E. (Other),0.011
+13,C. Hygiene items,"D. Educational (skills provision, training etc.)",0.029
+12,C. Hygiene items,C. Jobs creation,0.056
+11,C. Hygiene items,B. In-kind support,0.401
+10,C. Hygiene items,A. Cash,0.502
+9,B. Clothes and shoes / other non food items,E. (Other),0.017
+8,B. Clothes and shoes / other non food items,"D. Educational (skills provision, training etc.)",0.027
+7,B. Clothes and shoes / other non food items,C. Jobs creation,0.112
+6,B. Clothes and shoes / other non food items,B. In-kind support,0.228
+5,B. Clothes and shoes / other non food items,A. Cash,0.616
+4,A. Food,E. (Other),0.01
+3,A. Food,"D. Educational (skills provision, training etc.)",0.047
+2,A. Food,C. Jobs creation,0.109
+1,A. Food,B. In-kind support,0.202
+0,A. Food,A. Cash,0.632
